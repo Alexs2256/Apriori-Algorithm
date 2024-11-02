@@ -1,0 +1,20 @@
+Laptop,Headphones,Mouse,Keyboard,USB Cable
+Smartphone,Phone Case,Charger,Headphones
+Headphones,USB Cable,Laptop,Monitor
+Coffee Maker,Coffee Pods,Blender
+Blender,Cookware Set,Recipe Book,Yoga Mat
+Running Shoes,Yoga Mat,Fitness Tracker,Smartwatch
+Smartwatch,Headphones,Charger,Tablet
+Monitor,USB Cable,Laptop,External Hard Drive,Headphones
+Dumbbells,Yoga Mat,Water Bottle,Fitness Tracker
+Bluetooth Speaker,Smartphone,Charger
+External Hard Drive,Laptop,Monitor,Headphones
+Tablet,Wireless Router,Smartphone
+Hair Dryer,Electric Kettle,Nail Clipper
+Coffee Maker,Recipe Book,Coffee Pods
+Fitness App Subscription,Running Shoes,Smartwatch
+Phone Case,Smartwatch,Headphones
+Blender,Cookware Set,Electric Kettle
+Headphones,Laptop,Desk Organizer,Monitor
+Electric Toothbrush,Nail Clipper,Hair Dryer
+Desk Organizer,USB Cable,Wireless Router

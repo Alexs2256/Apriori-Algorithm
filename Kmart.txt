@@ -1,0 +1,20 @@
+Vacuum Cleaner,Mop,Broom,Laundry Basket,Trash Can
+Dish Rack,Kitchen Towels,Pots and Pans Set,Coffee Maker,Blender
+Microwave,Toaster,Blender,Dish Rack,Kitchen Towels
+Plates Set,Cutlery Set,Glasses Set,Tupperware,Laundry Basket
+Bedding Set,Pillow,Towels,Bath Mat,Air Freshener
+Towels,Shower Curtain,Bath Mat,Trash Can,Laundry Detergent
+Desk Lamp,Bookshelf,Storage Bins,Hangers,First Aid Kit
+Laundry Detergent,Trash Can,Air Freshener,Dish Rack
+Vacuum Cleaner,Laundry Basket,Mop,Towels
+Mop,Broom,Towels,Trash Can,Pet Food
+Pots and Pans Set,Blender,Coffee Maker,Dish Rack
+Plates Set,Tupperware,Glasses Set,Laundry Basket
+Bedding Set,Pillow,Towels,Bath Mat
+Shower Curtain,Bath Mat,Towels,Trash Can
+Desk Lamp,Storage Bins,Hangers,Laundry Detergent
+Vacuum Cleaner,Trash Can,Air Freshener
+Laundry Detergent,Mop,Trash Can
+Dog Bed,Pet Food,Bedding Set
+Pillow,Bedding Set,Towels,Desk Lamp,Air Freshener
+Microwave,Tupperware,Dish Rack,Plates Set,Blender

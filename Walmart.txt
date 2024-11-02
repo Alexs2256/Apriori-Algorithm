@@ -1,0 +1,25 @@
+vacuum Cleaner,Mop,Desk Lamp
+vacuum Cleaner,Mop,Broom,Frozen Pizza
+Laundry Basket,Broom,Shower Curtain,Air Freshener,Cutlery Set,Laundry Detergent
+Laundry Basket,vacuum Cleaner,Mop,Broom,Laundry Detergent
+Mop,Broom,Hangers,First Aid Kit
+Mop,Broom,Trash Can,Desk Lamp,Bookshelf
+Laundry Basket,vacuum Cleaner,Shower Curtain,Air Freshener,Cutlery Set,Laundry Detergent
+Dish Rack,Kitchen Towels,Pots and Pans Set
+Kitchen Towels,Coffee Maker
+Dish Rack,Kitchen Towels,Coffee Maker,ShowerCurtain,Air Freshener,Cutlery Set
+Dish Rack,Toaster,Microwave,Pots and Pans Set,Kitchen Towels,Coffee Maker
+Plates Set,Toaster,Kitchen Towels,
+Glasses Set,Tupperware,Bedding Set,Pillow,ShowerCurtain,Laundry Detergent,Air Freshener,Cutlery Set,Laundry Basket
+Pillow,Kitchen Towels,Coffee Maker,Bedding Set
+Tupperware,Bedding Set,Pillow,Shower Curtain,Air Freshener,Cutlery Set
+Dog Bed,Pet Food,Shower Curtain,Air Freshener,Cutlery Set
+Pillow,Bath Mat,Towels,Bath Mat,Dog Bed,Pet Food,Bedding Set
+Pillow,Bath Mat,Towels,Bath Mat,Air Freshener,Bedding Set
+Shower Curtain,Air Freshener,Cutlery Set
+Bath Mat,ShowerCurtain,Laundry Detergent,Air Freshener,Cutlery Set,Laundry Basket
+
+
+
+
+
