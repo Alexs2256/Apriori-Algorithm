@@ -51,5 +51,19 @@ When prompted, enter the minimum support and confidence thresholds (as decimals)
 
 Example:
 ```bash
-Please enter minimum support: 0.2
-Please enter minimum confidence: 0.5
+Please enter minimum support: 
+0.2
+Please enter minimum confidence: 
+0.5
+
+Database: Amazon
+
+Rule 1 (2 item set):
+{'item1'} --> {'item2'} [support: 30.0%, confidence: 75.0%]
+Invalid Rule
+-------------------------------
+Rule 2 (3 item set):
+{'item1', 'item2'} --> {'item3'} [support: 20.0%, confidence: 66.7%]
+
+Apriori Algorithm Execution time: 0.002345 seconds
+
